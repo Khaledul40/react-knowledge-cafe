@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/48VpMK8/flat-lay-desktop-with-laptop-cup-coffee.jpg",
+      "title": "The Enigma of Time",
+      "author": "Evelyn R. Montgomery",
+      "author_img": "https://i.ibb.co/mC6672f/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "posted_date": "2024-03-25",
+      "reading_time": 12,
+      "hashtags": ["time", "mystery", "philosophy"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/5WS22pq/top-view-world-tourism-day-concept-with-copy-space.jpg",
+      "title": "Echoes in the Void",
+      "author": "Maxwell Q. Hart",
+      "author_img": "https://i.ibb.co/JyhqBCW/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+      "posted_date": "2024-03-26",
+      "reading_time": 8,
+      "hashtags": ["space", "sciencefiction", "adventure"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/NyTykTt/digital-graphic-tablet-camera-cellphone-with-stationery-yellow-background.jpg",
+      "title": "Whispers of the Forest",
+      "author": "Serena A. Greene",
+      "author_img": "https://i.ibb.co/r573HBT/flirty-young-female-student-reading-book-table.jpg",
+      "posted_date": "2024-03-24",
+      "reading_time": 10,
+      "hashtags": ["nature", "fantasy", "magic"]
+    },
+    
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/WcZQt3s/technology-communication-icons-symbols-concept.jpg",
+      "title": "Secrets of the Deep",
+      "author": "Aria K. Sullivan",
+      "author_img": "https://i.ibb.co/mbRwZ6P/entrepreneur-writing-agenda.jpg",
+      "posted_date": "2024-03-22",
+      "reading_time": 20,
+      "hashtags": ["ocean", "mystery", "adventure"]
+    }
+  ]
+  
+  
